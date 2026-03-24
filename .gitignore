@@ -103,3 +103,5 @@ coverage/
 htmlcov/
 .cache/
 .env
+__pycache__/
+*.pyc
